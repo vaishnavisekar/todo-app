@@ -1,6 +1,4 @@
-function import get_todo,write_todo
 import function
-
 import time
 now = time.strftime("%b %d,%Y %H:%M:%S")
 print("It is",now)
